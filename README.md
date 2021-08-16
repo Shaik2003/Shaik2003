@@ -1,5 +1,5 @@
-### Hii! 👋, I'm Shaik Abdullah, a Robotics Enthusiast! 
-#### I am a 3rd year EEE undergrad at NIT, Warangal.
+### Hi! 👋, I'm Shaik Abdullah, a Robotics Enthusiast! 
+#### A 3rd year EEE undergrad at NIT, Warangal.
 
 
 
