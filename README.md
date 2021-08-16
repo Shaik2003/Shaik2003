@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Shaik Abdullah, a Robotics Enthusiast!
+### Hii! 👋, I'm Shaik Abdullah, a Robotics Enthusiast! 
+#### I am a 3rd year EEE undergrad at NIT, Warangal.
+
+
 
 <!--
 **Shaik2003/Shaik2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
