@@ -1,5 +1,7 @@
 ## Hi! 👋, I'm Shaik Abdullah, a Robotics Enthusiast! 
 #### A 3rd year EEE undergrad at NIT, Warangal.
+##### My skillset include ROS, MATLAB, Solidworks, Kinematic of Machine, Control Systems, Microcontrollers
+##### I have worked extensively on UAVs, MAVs, Robotic Arms and AGVs. Presently working on Robotic Bees.
 
 Reach me at: shaik_841972@student.nitw.ac.in
 
